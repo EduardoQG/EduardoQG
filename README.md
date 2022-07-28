@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eduardo. I am a self-taught developer that has been working in personal projects until now, using technologies as Java, HTML, CSS and Bootstrap, and Javascript. I am passionate about learning to code better everyday.
+My name is Eduardo. I am a self-taught developer that has been working in personal projects until now, using technologies as Java, HTML, CSS and Bootstrap, Javascript and Python. I am passionate about learning to code better everyday.
 
 
 
