@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Eduardo. I am a self-taught developer that has been working in personal projects until now, using technologies as Java, HTML, CSS and Bootstrap, Javascript and Python. I am passionate about learning to code better everyday.
+My name is Eduardo. I like coding; I am currently coursing a Mobile Applications Development degree that includes knowledge about Java, SQL and noSQL databases and Javascript.
+
+Check my repositories, you can find my degree and personal projects there.
+
+My LinkedIn profile: https://www.linkedin.com/in/eduardo-quiroga-portillo-0ba3ba220/
 
 
 
