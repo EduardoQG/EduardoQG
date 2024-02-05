@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hola! 👋
 
-My name is Eduardo. I like coding; I am currently coursing a Mobile Applications Development degree that includes knowledge about Java, SQL and noSQL databases and Javascript.
+Mi nombre es Eduardo. He cursado un grado de desarrollo de aplicaciones multiplataforma y disfruto creado nuevos proyectos 📱
 
-Check my repositories, you can find my degree and personal projects there.
+Tengo conocimiento de tecnologías como Java, Python, SQL, Javascript y Android Studio 👨‍💻
 
-My LinkedIn profile: https://www.linkedin.com/in/eduardo-quiroga-portillo-0ba3ba220/
+Aquí encontrarás mis proyectos personales.
+
+Mi perfil de LinkedIn: https://www.linkedin.com/in/eduardo-quiroga-portillo-0ba3ba220/
 
 
 
